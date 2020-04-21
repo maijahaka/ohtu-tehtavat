@@ -1,7 +1,10 @@
 # Ignore Gradle project-specific cache directory
 viikko2/tehtavat1-4/gradle
+viikko2/tehtava9/Verkkokauppa1/gradle
 
 # Ignore Gradle build output directory
 viikko2/tehtavat1-4/build
+viikko2/tehtava9/Verkkokauppa1/build
 
 viikko2/tehtavat1-4/.gradle
+viikko2/tehtava9/Verkkokauppa1/.gradle
