@@ -1,10 +1,24 @@
 # Ignore Gradle project-specific cache directory
 viikko2/tehtavat1-4/gradle
 viikko2/tehtava9/Verkkokauppa1/gradle
+viikko3/HelloCucumber/gradle
+viikko3/LoginCucumber/gradle
+viikko3/nhlreader/gradle
+viikko3/WebLogin/gradle
 
 # Ignore Gradle build output directory
 viikko2/tehtavat1-4/build
 viikko2/tehtava9/Verkkokauppa1/build
+viikko3/HelloCucumber/build
+viikko3/LoginCucumber/build
+viikko3/nhlreader/build
+viikko3/WebLogin/build
 
 viikko2/tehtavat1-4/.gradle
 viikko2/tehtava9/Verkkokauppa1/.gradle
+viikko3/HelloCucumber/.gradle
+viikko3/LoginCucumber/.gradle
+viikko3/nhlreader/.gradle
+viikko3/WebLogin/.gradle
+
+viikko3/WebLogin/salasanat.txt
